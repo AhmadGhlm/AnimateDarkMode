@@ -42,3 +42,7 @@ body.dark {
   transition: var(--transition-delay);
   transform: scale(1);
 }
+
+.theme-toggle-button .icon {
+  margin-right: 0.5em;
+}
