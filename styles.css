@@ -46,3 +46,8 @@ body.dark {
 .theme-toggle-button .icon {
   margin-right: 0.5em;
 }
+
+.theme-toggle-button:hover,
+.theme-toggle-button:focus {
+  transform: scale(1.1);
+}
