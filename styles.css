@@ -15,3 +15,9 @@ body {
   background-color: var(--background-color);
   color: var(--text-color);
 }
+
+body.dark {
+  --accent-color: #d0d066;
+  --background-color: #333;
+  --text-color: white;
+}
