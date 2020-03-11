@@ -21,3 +21,8 @@ body.dark {
   --background-color: #333;
   --text-color: white;
 }
+
+.title {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
