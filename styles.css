@@ -65,3 +65,12 @@ body.dark {
   transform: rotate(calc(var(--rotation) * 1deg));
   transition: transform var(--transition-delay);
 }
+
+.sun,
+.moon {
+  position: absolute;
+  transition: opacity, fill, var(--transition-delay);
+  width: 30px;
+  height: 30px;
+  fill: var(--accent-color);
+}
