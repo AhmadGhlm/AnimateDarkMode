@@ -74,3 +74,8 @@ body.dark {
   height: 30px;
   fill: var(--accent-color);
 }
+
+.sun {
+  top: 5%;
+  opacity: 1;
+}
