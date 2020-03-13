@@ -83,3 +83,9 @@ body.dark {
 .dark .sun {
   opacity: 0;
 }
+
+.moon {
+  bottom: 5%;
+  opacity: 0;
+  transform: rotate(180deg);
+}
