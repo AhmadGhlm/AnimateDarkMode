@@ -79,3 +79,7 @@ body.dark {
   top: 5%;
   opacity: 1;
 }
+
+.dark .sun {
+  opacity: 0;
+}
