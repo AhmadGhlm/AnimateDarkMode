@@ -89,3 +89,7 @@ body.dark {
   opacity: 0;
   transform: rotate(180deg);
 }
+
+.dark .moon {
+  opacity: 1;
+}
